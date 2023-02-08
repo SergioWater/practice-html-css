@@ -97,3 +97,8 @@ header{
 .nice{
     font-size: 24px;
 }
+.wrap{
+    display: flex;
+}
+.two{
+   
